@@ -1,0 +1,16 @@
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\kha_bai1.bai_so_2.resources
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\KhaKho2.csproj.GenerateResource.cache
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\KhaKho2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\KhaKho2.AssemblyInfoInputs.cache
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\KhaKho2.AssemblyInfo.cs
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\KhaKho2.csproj.CoreCompileInputs.cache
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\bin\Debug\net8.0-windows\KhaKho2.exe
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\bin\Debug\net8.0-windows\KhaKho2.deps.json
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\bin\Debug\net8.0-windows\KhaKho2.runtimeconfig.json
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\bin\Debug\net8.0-windows\KhaKho2.dll
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\bin\Debug\net8.0-windows\KhaKho2.pdb
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\KhaKho2.dll
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\refint\KhaKho2.dll
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\KhaKho2.pdb
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\KhaKho2.genruntimeconfig.cache
+D:\Mon_DESKTOP_4651050113\kha_bai1\KhaKho2\obj\Debug\net8.0-windows\ref\KhaKho2.dll
